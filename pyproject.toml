@@ -1,7 +1,12 @@
 [project]
-name = "template-repo"
+name = "Kuzu-intro"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "ipykernel>=6.29.5",
+    "kuzu>=0.10.0",
+    "pandas>=2.2.3",
+    "yfiles-jupyter-graphs>=1.10.6",
+]
