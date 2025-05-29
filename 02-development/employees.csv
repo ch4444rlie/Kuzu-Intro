@@ -1,0 +1,11 @@
+id,name,color,role
+1000,hr,red,intern
+1001,hr,green,junior
+1002,it,yellow,senior
+1003,media,orange,manager
+1004,design,red,senior
+1005,design,green,manager
+1006,dev,yellow,junior
+1007,dev,orange,senior
+1008,dev,yellow,senior
+1009,dev,red,manager

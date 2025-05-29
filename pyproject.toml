@@ -9,5 +9,6 @@ dependencies = [
     "jupyter>=1.1.1",
     "kuzu>=0.10.0",
     "pandas>=2.2.3",
+    "pyarrow>=20.0.0",
     "yfiles-jupyter-graphs>=1.10.6",
 ]
